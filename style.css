@@ -1,0 +1,11 @@
+main {
+	position: absolute;
+	font-family:monospace;
+	color: white;
+	opacity:0;
+}
+canvas {
+	position:fixed;
+	top:0;
+	left:0;
+}
